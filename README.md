@@ -71,7 +71,7 @@ The primary aim of the Library Management System project is to demonstrate the p
 2. Open the project in your preferred Java IDE.
 
 3. Run the Main class to see the example usage of the library management system.
-![dia](https://github.com/ArmanJ04/SDP/assets/57132784/8df95ff7-d736-44ec-b2f1-0b5dfb95e53e)
+![dia](https://raw.githubusercontent.com/kozhanov7/Final/master/uml.png)
 <!-- Example Usage Section -->
 ## Example Usage
 
